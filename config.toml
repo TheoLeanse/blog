@@ -1,0 +1,4 @@
+baseURL = "http://theoleanse.com/"
+languageCode = "en-gb"
+title = "theo leanse"
+theme = "ananke"
